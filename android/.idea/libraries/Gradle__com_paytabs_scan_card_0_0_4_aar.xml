@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paytabs:scan-card:0.0.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb46f58ec3e6e9425ae7e0d62ee4f901/jetified-scan-card-0.0.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb46f58ec3e6e9425ae7e0d62ee4f901/jetified-scan-card-0.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb46f58ec3e6e9425ae7e0d62ee4f901/jetified-scan-card-0.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb46f58ec3e6e9425ae7e0d62ee4f901/jetified-scan-card-0.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

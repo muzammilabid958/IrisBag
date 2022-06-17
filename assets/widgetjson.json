@@ -1,0 +1,40 @@
+
+
+{
+    "banner": [
+      {
+        "title": "Sale 50% Off",
+        "boxcolor" : "0xFF757575",
+        "description": "Summer biggest offers \n",
+        "fontsize": 18,
+        "cardcolor1":"0xfffc9918",
+        "cardcolor2":"0xFF757575",
+        "cardcolor3":"0xfffc9918",
+        "fontcolor" : "0xFF979797",
+        "homenavbarcolour":"0xFF757575",
+        "bannertextcolor":"0xffE99E22",
+        "bannertextbordercolor":"0xfffc9918",
+        "fontstyle" : "fontWeight: FontWeight.w100",
+        "bodyText1" : "Poppins",
+        "bodyText2" : "Poppins",
+        "textcolor1":"#000000",
+        "textcolour2":"#000000",
+        "scaffold_background_color":"#ffffff",
+        "appbarbackgroundcolor":"#A47E0F",
+        "appbarbackgroundIconcolor":"#A47E0F",
+        "appbartitleColor":"#f7c1cb",
+        "iscardenable":true,
+        "isbannerenable":true,
+        "isfeatureenable":true,
+        "text_color":"#F0360F",
+        "bottomBarColor":"#fcf2d4",
+        "primary_color":"#A47E0F",
+        "LinearGradientSliderColor":"#A47E0F",
+        "CashBackColor":"#A47E0F",
+        "loadercolor":"#A47E0F",
+        "buttoncolor":"#A47E0F",
+
+        "iconColor":"#A47E0F"
+      }
+    ]
+  }
